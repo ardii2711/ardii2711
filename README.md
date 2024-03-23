@@ -19,9 +19,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][github]
 [<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
-<br />
-
----
 [website]: https://ardiileven.netlify.app
 [linkedin]: https://www.linkedin.com/in/ardii2711
 [instagram]: https://www.instagram.com/ardii11_

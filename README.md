@@ -37,7 +37,7 @@ I'm a graduate from **Indonesia**, with a degree in **Information Systems** from
       </a>
     </td>
     <td align="center" style="width: 50%; border: none;">
-      <a href="https://github.com/ardi2711" style="display: block; height: 150px;">
+      <a href="https://github.com/ardii2711" style="display: block; height: 150px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardii2711&layout=compact&hide_border=true" alt="Top Languages">
       </a>
     </td>

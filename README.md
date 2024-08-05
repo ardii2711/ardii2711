@@ -1,8 +1,7 @@
 # Hi, I'm Ardi S.👋
 
 I'm a graduate from **Indonesia**, with a degree in **Information Systems** from **Hasanuddin University**. My background includes experience in **Mobile App Development**, **Machine Learning**, and **IoT**. Currently, I'm dedicated to mastering **Frontend Development**.
-
-My goal is to create captivating user interfaces that seamlessly blend creativity with intuitive experiences. I'm driven by a passion for contributing to projects that redefine digital interactions and elevate user satisfaction.
+<br>
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -29,14 +28,24 @@ My goal is to create captivating user interfaces that seamlessly blend creativit
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FA7343?style=for-the-badge&logo=amazon&logoColor=white)
 
-## Github Stats & Top Languages
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start;"">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardii2711&show_icons=true&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardii2711&layout=compact&hide_border=true" alt="Top Languages">
-</div>
+## GitHub Analytics
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="width: 50%; border: none;">
+      <a href="https://github.com/ardii2711" style="display: block; height: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ardii2711&show_icons=true&hide_border=true" alt="GitHub Stats">
+      </a>
+    </td>
+    <td align="center" style="width: 50%; border: none;">
+      <a href="https://github.com/ardi2711" style="display: block; height: 150px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardii2711&layout=compact&hide_border=true" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-## Find me on
+## Find Me On
 <p>
   <a href="https://www.linkedin.com/in/ardii2711/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

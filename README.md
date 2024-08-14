@@ -1,6 +1,6 @@
 # Hi, I'm Ardi S.👋
 
-I'm a graduate from **Indonesia**, with a degree in **Information Systems** from **Hasanuddin University**. My background includes experience in **Mobile App Development**, **Machine Learning**, and **IoT**. Currently, I'm dedicated to mastering **Frontend Development**.
+I'm a graduate from **Indonesia**, with a degree in **Information Systems** from **Hasanuddin University**. My background includes experience in **Mobile App**, **Machine Learning**, and **IoT**. Currently, I'm dedicated to mastering **Frontend Developer**.
 <br>
 
 <div style="display: flex; justify-content: space-between;">
@@ -27,9 +27,6 @@ I'm a graduate from **Indonesia**, with a degree in **Information Systems** from
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FA7343?style=for-the-badge&logo=amazon&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## GitHub Analytics
 <table align="center" style="border-collapse: collapse;">

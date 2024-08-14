@@ -3,6 +3,8 @@
 I'm a graduate from **Indonesia**, with a degree in **Information Systems** from **Hasanuddin University**. My background includes experience in **Mobile App**, **Machine Learning**, and **IoT**. Currently, I'm dedicated to mastering **Frontend Developer**.
 <br>
 
+**Check out my portfolio at [ardevs.vercel.app](https://ardevs.vercel.app)**
+
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; margin-right: 1rem;">
